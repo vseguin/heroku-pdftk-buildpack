@@ -27,3 +27,4 @@ g++-6
 linux-libc-dev
 libaio1
 libaio-dev
+libisl-dev
